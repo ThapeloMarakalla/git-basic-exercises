@@ -1,0 +1,500 @@
+  160  exit
+  161  ipython
+  162  exit
+  163  ipython
+  164  exit
+  165  ipython
+  166  exit
+  167  ipython
+  168  exit
+  169  ipython
+  170  exit
+  171  mysql -u root -p bank
+  172  Marakall2
+  173  mysql -u root -p bank
+  174  exit
+  175  git clone https://github.com/Apress/beginning-power-bi-3ed.git
+  176  git clone https://github.com/Apress/beginning-power-bi-3ed.git
+  177  make
+  178  exit
+  179  python process_songlovers.py 
+  180  git add remote origin https://github.com/ThapeloMarakalla/Janatahack-Independence-Day-2020-ML-Hackathon.git
+  181  git add remote origin https://github.com/ThapeloMarakalla/Janatahack-Independence-Day-2020-ML-Hackathon
+  182  git remote add origin https://github.com/ThapeloMarakalla/Janatahack-Independence-Day-2020-ML-Hackathon
+  183  git remote -v
+  184  git clone https://github.com/ThapeloMarakalla/Janatahack-Independence-Day-2020-ML-Hackathon.git
+  185  ls
+  186  cd Janatahack-Independence-Day-2020-ML-Hackathon/
+  187  dir
+  188  mkdir data output code
+  189  dir
+  190  git status
+  191  cd ..
+  192  ls
+  193  cd Janatahack-Independence-Day-2020-ML-Hackathon/
+  194  dir
+  195  code .gitignore
+  196  git status
+  197  cd data
+  198  git status
+  199  ls
+  200  git status
+  201  cd ..
+  202  cd data
+  203  dir
+  204  git status
+  205  git status
+  206  cd ..
+  207  git status
+  208  git add .gitignore 
+  209  git commit -m 'Update .gitignore'
+  210  git status
+  211  git push
+  212  jupyter lab
+  213  git status
+  214  git log
+  215  git add README.md 
+  216  git commit -m 'Update README.md'
+  217  git push
+  218  git status
+  219  git push
+  220  git remote -v
+  221  git push -u origin master
+  222  git -d remote origin
+  223  git --delete remote origin
+  224  git --delete origin
+  225  git remote -v
+  226  git remote add origin https://github.com/ThapeloMarakalla/-Janatahack-Independence-Day-2020-ML-Hackathon.git
+  227  git branch -M master
+  228  git push -u origin master
+  229  cd ..
+  230  cd Janatahack-Independence-Day-2020-ML-Hackathon/
+  231  git push -u origin master
+  232  git log
+  233  git reset head~1 soft
+  234  git log
+  235  git reset head~2 soft
+  236  git log
+  237  git reset HEAD^1
+  238  git log
+  239  git status
+  240  jupyter lab
+  241  git add status
+  242  git status
+  243  git add README.md 
+  244  git commit -m 'Update README.md' 
+  245  git push
+  246  git status
+  247  git add data/*.csv
+  248  git commite -m 'Add data scources'
+  249  git commit -m 'Add data sources'
+  250  git status
+  251  git push
+  252  python process_songlovers.py 
+  253  python process_songlovers.py 
+  254  exit
+  255  python process_songlovers.py 
+  256  cd Desktop/
+  257  mkdir my_python
+  258  cd my_python
+  259  cd ..
+  260  rm -rf my_python
+  261  cd my_python/Calculator
+  262  mkdir my_python/Calculator
+  263  mkdir my_python
+  264  mkdir my_python/Calculator
+  265  cd my_python/Calculator/
+  266  git init
+  267  git status
+  268  exit
+  269  cd Desktop/my_python/Calculator/
+  270  git status
+  271  git log
+  272  code
+  273  git status
+  274  git add calculator.py 
+  275  git commit -m 'Initial commit'
+  276  git status
+  277  git commit -m 'Add operations'
+  278  git status
+  279  git log --oneline 
+  280  git add calculator.py 
+  281  git commit -m 'Add the logic'
+  282  git log --oneline 
+  283  python calculator.py 
+  284  python calculator.py 
+  285  python calculator.py 
+  286  python calculator.py 
+  287  python calculator.py 
+  288  git add calculator.py 
+  289  git commit
+  290  git log --oneline 
+  291  python calculator.py 
+  292  python calculator.py 
+  293  python calculator.py 
+  294  python calculator.py 
+  295  python calculator.py 
+  296  git add calculator.py 
+  297  git commit -m 'Add get operation from the user'
+  298  git commit --amend 
+  299  git log
+  300  git add calculator.py 
+  301  git commit --amend 
+  302  python calculator.py 
+  303  python calculator.py 
+  304  python calculator.py 
+  305  git add calculator.py 
+  306  git commit -m 'Add get numbers from the user'
+  307  python calculator.py 
+  308  git commit -m 'Add opearion selector'
+  309  git commit -a 'Add opearion selector'
+  310  git commit -a -m 'Add opearion selector'
+  311  git status
+  312  git log --oneline
+  313  git status
+  314  git log
+  315  exit
+  316  cd Desktop/my_python/
+  317  ls
+  318  mkdir Account
+  319  cd Account/
+  320  code account.py
+  321  python account.py 
+  322  python account.py 
+  323  python account.py 
+  324  spyder account.py
+  325  cls
+  326  clear
+  327  python account.py 
+  328  python account.py 
+  329  python account.py 
+  330  python account.py 
+  331  python account.py 
+  332  python account.py 
+  333  python account.py 
+  334  python account.py 
+  335  python account.py 
+  336  python account.py 
+  337  python account.py 
+  338  python account.py 
+  339  cd ..
+  340  dir
+  341  mkdir Distance
+  342  cd Distance/
+  343  code disance.py
+  344  code disance.py
+  345  exit
+  346  cd Desktop/my_python/Distance/
+  347  code distance.py
+  348  cd Desktop/my_python/
+  349  cd Distance/
+  350  code distance.py
+  351  python distance.py 
+  352  python distance.py 
+  353  python distance.py 
+  354  python distance.py 
+  355  python distance.py 
+  356  python distance.py 
+  357  python distance.py 
+  358  python distance.py 
+  359  cd ..
+  360  cd Account/
+  361  cls
+  362  clear
+  363  code account.py
+  364  python account.py 
+  365  python account.py 
+  366  python account.py 
+  367  python account.py 
+  368  python account.py 
+  369  python account.py 
+  370  clear
+  371  python account.py 
+  372  python account.py 
+  373  python account.py 
+  374  python account.py 
+  375  python account.py 
+  376  python account.py 
+  377  clear
+  378  python account.py 
+  379  clear
+  380  python account.py 
+  381  mv account.py accounts.py
+  382  code accounts.py 
+  383  mkdir fintech
+  384  mv accounts.py fintech/
+  385  dir
+  386  cd fintech/
+  387  touch __init__.py
+  388  dir
+  389  code accounts.py 
+  390  cd ..
+  391  code main.py
+  392  python main.py 
+  393  cd fintech
+  394  python accounts.py 
+  395  cd ..
+  396  python main.py 
+  397  python main.py 
+  398  python main.py 
+  399  python main.py 
+  400  python main.py 
+  401  python main.py 
+  402  python main.py 
+  403  python main.py 
+  404  clear
+  405  python main.py 
+  406  python main.py 
+  407  python fintech/accounts.py 
+  408  exut
+  409  exit
+  410  echoe "$Home"
+  411  echo "$Home"
+  412  pwd
+  413  echo Hello, World!
+  414  type test
+  415  test -a test
+  416  type -a test
+  417  bash --version
+  418  exit
+  419  cd Desktop/my_python/
+  420  dir
+  421  mkdir scripts
+  422  cd scripts/
+  423  code regex.py
+  424  python regex.py 
+  425  python regex.py 
+  426  python regex.py 
+  427  python regex.py 
+  428  python regex.py 
+  429  python regex.py 
+  430  python regex.py 
+  431  code regex.py
+  432  python regex.py 
+  433  python regex.py 
+  434  ls -lrh
+  435  ls/
+  436  ls /
+  437  dir
+  438  eexit
+  439  exit
+  440  cdd:
+  441  dir
+  442  cd ..
+  443  dir
+  444  cd ..
+  445  dir
+  446  cd ..
+  447  cd d:
+  448  dir
+  449  cd Scripts/
+  450  ls -lrh
+  451  pwd
+  452  cls
+  453  clear
+  454  ls
+  455  ls /Pictures
+  456  ls Desktop/
+  457  ls Pictures/
+  458  ls /
+  459  cd Desktop/
+  460  pwd
+  461  ls
+  462  cls
+  463  clear
+  464  mkdir Test_Bash
+  465  cd Test_Bash/
+  466  mkdir A B
+  467  dir
+  468  ls
+  469  mkdir A/a1
+  470  ls
+  471  ls A/
+  472  cd home
+  473  cd/
+  474  cd /
+  475  cd home
+  476  user
+  477  cd user
+  478  dir
+  479  ls
+  480  ls /user
+  481  ls /usr
+  482  c:
+  483  cd c:
+  484  cd Users/Thapelo/Desktop/Test_git/
+  485  cd ../..
+  486  cd c
+  487  c:
+  488  dir
+  489  cd Desktop/
+  490  cd Test_Bash/
+  491  cd A/a1
+  492  cd /Test_Bash
+  493  cd /Desktop
+  494  cd /
+  495  dir
+  496  c:
+  497  c
+  498  cd c:
+  499  cd Users/Thapelo/Desktop/Test_Bash/
+  500  exit
+  501  cd Desktop/
+  502  mkdir git-basic-exercises
+  503  cd git-basic-exercises/
+  504  git init
+  505  cd ..
+  506  rm -rf git-basic-exercises/
+  507  mkdir git-basic-exercises
+  508  cd git-basic-exercises/
+  509  ls -a
+  510  ls
+  511  clear
+  512  git init
+  513  ls -a
+  514  git status
+  515  touch README.md
+  516  ls -l
+  517  ls -a
+  518  git status
+  519  git log
+  520  git add README.md 
+  521  git status
+  522  git rm --cached README.md 
+  523  git status
+  524  git add README.md 
+  525  git commit -m 'initial commit'
+  526  git log
+  527  nano README.md 
+  528  cat README.md 
+  529  git status
+  530  git add README.md 
+  531  git commit -m 'second commit'
+  532  nano README.md 
+  533  git add README.md 
+  534  git commit -m 'third commit'
+  535  git log
+  536  git checkout 7f52da
+  537  cat README.md 
+  538  git checkout master 
+  539  cat README.md 
+  540  git branch
+  541  git branch milkshake-flavours
+  542  git branch
+  543  git checkout milkshake-flavours 
+  544  git branch
+  545  nano milkshakes.md
+  546  git status
+  547  git add milkshakes.md 
+  548  git commit -m 'added initial flavours'
+  549  git log
+  550  git checkout master
+  551  git log
+  552  git checkout -d history
+  553  git checkout -b history
+  554  git branch
+  555  history > history.txt
+  556  git status
+  557  git add history.txt 
+  558  git commit -m "added history"
+  559  git log
+  560  git checkout milkshake-flavours 
+  561  git log --oneline 
+  562  nano README.md 
+  563  git status
+  564  git add README.md 
+  565  git status
+  566  git commit -m "random readme changes"
+  567  git checkout history 
+  568  cat README.md 
+  569  rm README.md 
+  570  echo "booya" > README.md
+  571  git add README.md 
+  572  git commit -m "rewrote readme"
+  573  git checkout master
+  574  clear
+  575  ls
+  576  git log
+  577  git checkout milkshake-flavours 
+  578  ls
+  579  git log --oneline 
+  580  git checkout history 
+  581  git log --oneline 
+  582  git checkout master
+  583  git merge milkshake-flavours 
+  584  ls
+  585  git log --oneline
+  586  git checkout history
+  587  git merge master
+  588  git log
+  589  nano README.md 
+  590  git status
+  591  git add README.md 
+  592  git status
+  593   git commit
+  594  git log --oneline 
+  595  git checkout master
+  596  git remote add origin https://github.com/ThapeloMarakalla/git-basic-exercises.git
+  597  git branch -M main
+  598  git remote add origin https://github.com/ThapeloMarakalla/git-basic-exercises.git
+  599  git branch -M main
+  600  git push -u origin main
+  601  git branch -M milkshake-flavours 
+  602  git push -u origin milkshake-flavours 
+  603  git branch -M history 
+  604  git push -u origin history 
+  605  git log --oneline 
+  606  git checkout master
+  607  git branch
+  608  git remote
+  609  git checkout milkshake-flavours 
+  610  git checkout main
+  611  git branch
+  612  git checkout 
+  613  git checkout history 
+  614  git log
+  615  git remote
+  616  git log
+  617  git checkout milkshake-flavours 
+  618  git log
+  619  git remote -d origin
+  620  git remote remove origin
+  621  git log
+  622  git checkout master
+  623  git checkout main
+  624  git log
+  625  cd ..
+  626  clear
+  627  rm -rfv git-basic-exercises/
+  628  git-basic-exercises
+  629  mkdir git-basic-exercises
+  630  cd git-basic-exercises/
+  631  git init
+  632  touch README.md
+  633  git add README.md 
+  634  git commit -m "initial commit"
+  635  nano README.md 
+  636  cat README.md 
+  637  git stats
+  638  git add README.md 
+  639  git commit -m "second commit"
+  640  nano README.md 
+  641  git add README.md 
+  642  git commit -m "third commit"
+  643  git log --oneline
+  644  git branch
+  645  git branch milkshake-flavours
+  646  git branch
+  647  git checkout milkshake-flavours 
+  648  nano milkshakes.md
+  649  git status
+  650  git log --oneline 
+  651  git add milkshakes.md 
+  652  git commit -m "added initial flavours"
+  653  git checkout master
+  654  git log --oneline 
+  655  git checkout milkshake-flavours 
+  656  git log --oneline 
+  657  git checkout master
+  658  git checkout -b history
+  659  history > history.txt
